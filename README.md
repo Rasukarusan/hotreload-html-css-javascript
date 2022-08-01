@@ -1,11 +1,13 @@
 # Hot Reload - html, css, javascript
 
-## What is this?
+## これはなに
 
 - hot reload
 - eslint, prettier
 
-## How to start?
+サクッとhtml, css, javascriptを書きたいときに利用します。
+
+## 起動
 
 ```sh
 yarn
