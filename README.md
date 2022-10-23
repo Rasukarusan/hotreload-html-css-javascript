@@ -2,10 +2,11 @@
 
 ## これはなに
 
-- hot reload
-- eslint, prettier
+素のhtml, javascript, cssでページを作るための環境
 
-サクッとhtml, css, javascriptを書きたいときに利用します。
+- ホットリロード
+- コード静的解析・フォーマッター(eslint, prettier)
+
 
 ## 起動
 
